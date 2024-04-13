@@ -15,6 +15,6 @@ radius3 = 50
 area3 = compute_area_of_circle(radius3)
 print(f"The area of circle with radius {radius3} is: {area3}")
 
-radius3 = 60
-area3 = compute_area_of_circle(radius4)
+radius4 = 60
+area4 = compute_area_of_circle(radius4)
 print(f"The area of circle with radius {radius4} is: {area4}")
